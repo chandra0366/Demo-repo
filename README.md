@@ -1,4 +1,4 @@
 # Demo-repo
 Demo Repository
 <br>
-Auther - Chandu
+Auther - Chandu (the great)
